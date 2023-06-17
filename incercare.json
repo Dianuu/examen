@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Salisbury Plain",
+        "description": "https://en.wikipedia.org/wiki/Stonehenge"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.8257435316292003,
+          51.17898168953215
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "North West England.",
+        "description": "https://en.wikipedia.org/wiki/Lake_District"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.923022487247181,
+          54.4002787555647
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "London",
+        "description": "https://en.wikipedia.org/wiki/Tower_of_London"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.07606890074342232,
+          51.50808813194831
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Staffordshire",
+        "description": "https://en.wikipedia.org/wiki/Alton_Towers"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.8858468536964494,
+          52.98707441950134
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "West Bretton",
+        "description": "https://en.wikipedia.org/wiki/Yorkshire_Sculpture_Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.5692299392389373,
+          53.614104407091105
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    }
+  ]
+}
